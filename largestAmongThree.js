@@ -16,3 +16,8 @@ else
 {
     console.log(`${c} Is Greater`);
 }
+
+// Largest Among Three Using Math Object.
+
+let largest = Math.max(a,b,c);
+console.log(`${largest} Is Greatest`);
